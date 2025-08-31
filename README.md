@@ -62,7 +62,7 @@ OpenAI or OpenRouter API key
 Installation
 
 # Clone repo
-git clone https://github.com/your-username/wokkathon-agents.git
+https://github.com/Ayokanmii/Customer-support-auto
 
 # Enter folder
 cd wokkathon-agents
